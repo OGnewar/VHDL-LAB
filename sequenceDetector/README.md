@@ -1,17 +1,6 @@
-#SEQUENCE DETECTION solution using VHDL.
-#>2078 Chaitra
-## develop a VHDL code a sequence detector for the sequence 1011.
-
-This repository contains VHDL code for implementation of sequence detector.
-
-## Files
-
-- `sequence.vhdl`: VHDL code for the FSM GCD entity and architecture.
-- `sequenceTest.vhdl`: VHDL code for the testbench entity and architecture.
-
-## Running the Testbench
-
-To run the testbench:
-
-1. Compile the VHDL files (sequence.vhdl` and `sequenceTest.vhdl`) using a VHDL compiler.
-2. Simulate the compiled design using a simulator.
+<h1>Sequence Detector</h1>
+<h2>2078 Chaitra Regular</h2>
+<p>Draw the state diagram for a sequence detector for the sequence 1011 and then develop a VHDL code based on the state diagram. </p>
+<img src="./sequenceDetector.png" alt="sequence detection using vhdl." />
+<h2>State Diagram</h2>
+<img src="./sequenceState.png" alt="State Diagram for Sequence Detector" />
