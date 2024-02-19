@@ -1,0 +1,7 @@
+v 4
+file . "bcd_tb.vhdl" "193eb87d9fd616c27081ace0d670dcf97e329140" "20240219132016.594":
+  entity bcd_tb at 1( 0) + 0 on 13;
+  architecture tb of bcd_tb at 8( 100) + 0 on 14;
+file . "bcd.vhdl" "0349655684bf0116ecd1a7e99b18aa7943ab700f" "20240219131812.720":
+  entity bcd_counter at 1( 0) + 0 on 11;
+  architecture behavioral of bcd_counter at 12( 283) + 0 on 12;
