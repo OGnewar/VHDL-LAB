@@ -1,10 +1,4 @@
-## Using structural model,write a code in VHDL to implement full adder.(2077 ,2075 regular , 2073 back)
-
-# Full Adder
-
-This repository contains VHDL code for a full adder (`Full_Adder`) and its corresponding testbench (`tb_full_adder`). 
-
-## Simulation Duration
-
-Each test case is simulated for a duration to allow sufficient observation of the full adder behavior.
-
+<h1>FULL ADDER</h1>
+<h2>2077 Chaitra</h2>
+<p>Write VHDL code for a full adder using two half adders and one OR gate.</p>
+<img src="./fullAdder.png" alt="Full adder using vhdl." />
