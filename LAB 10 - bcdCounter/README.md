@@ -1,4 +1,4 @@
-<h1>Counter using VHDL</h1>
-<h2>2079 Ashwin</h2>
-<p>Design a 3-bit up counter using T flipflop using structural modeling in VHDL.</p>
-<img src="./counter.jpg" alt="3 bit up counter." />
+<h1>BCD Counter</h1>
+<h2>2070 Bhadra</h2>
+<p>Write a code for BCD counter to display 0 to 9999 in seven segment using VHDL.</p>
+<img src="./bcd.png" alt="bcd counter" />
