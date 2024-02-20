@@ -34,7 +34,7 @@ GTKWave is a waveform viewer. Follow the instructions on the [GTKWave website](h
 We have used the vim text editor to write the vhdl codes. All that remains is to navigate to the test directory and run the test cases using the provided scripts.
 ```bash
 # Command for running GHDL
-ghdl -a your_test_bench.vhd
+ghdl -a your_test_bench.vhdl
 ghdl -e your_test_bench_entity
 ghdl -r your_test_bench_entity --wave=wave.vcd
 ```
