@@ -1,0 +1,51 @@
+$date
+  Tue Feb 20 21:41:50 2024
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module fsmtb_gcd $end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var integer 32 # a $end
+$var integer 32 $ b $end
+$var integer 32 % gcd $end
+$scope module fsmgcd1 $end
+$var reg 1 & reset $end
+$var reg 1 ' clk $end
+$var integer 32 ( a $end
+$var integer 32 ) b $end
+$var integer 32 * gcd $end
+$comment current_state is not handled $end
+$comment next_state is not handled $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+1!
+1"
+b10000000000000000000000000000000 #
+b10000000000000000000000000000000 $
+b10000000000000000000000000000000 %
+1&
+1'
+b10000000000000000000000000000000 (
+b10000000000000000000000000000000 )
+b10000000000000000000000000000000 *
+#10000000
+0"
+b1010 #
+b1111 $
+0&
+b1010 (
+b1111 )
+#100000000
+0!
+0'
