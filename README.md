@@ -36,7 +36,7 @@ We have used the vim text editor to write the vhdl codes. All that remains is to
 # Command for running GHDL
 ghdl -a your_test_bench.vhdl
 ghdl -e your_test_bench_entity
-ghdl -r your_test_bench_entity --wave=wave.vcd
+ghdl -r your_test_bench_entity --wave=wave.vcd --stop-time=desired-time-duration
 ```
 ```bash
 # Command for running GTKWave
