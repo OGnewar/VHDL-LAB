@@ -1,11 +1,11 @@
 v 4
-file . "upCounter_tb.vhdl" "d1d9fc0315db61e4e19e27015d1b99f47c3e4a7d" "20240211123755.931":
-  entity tb_counter at 1( 0) + 0 on 17;
-  architecture tb_counter of tb_counter at 7( 83) + 0 on 18;
-file . "upCounter.vhdl" "5305d9cf4c3e4ab9c0bb641a5f03f138473a45df" "20240211123656.267":
-  entity tff at 1( 0) + 0 on 11;
-  architecture tff of tff at 9( 138) + 0 on 12;
-  entity and_g at 28( 529) + 0 on 13;
-  architecture and_g of and_g at 36( 664) + 0 on 14;
-  entity up_counter at 44( 731) + 0 on 15;
-  architecture up_counter of up_counter at 52( 899) + 0 on 16;
+file . "upCounter_tb.vhdl" "d1d9fc0315db61e4e19e27015d1b99f47c3e4a7d" "20240220151856.798":
+  entity tb_counter at 1( 0) + 0 on 33;
+  architecture tb_counter of tb_counter at 7( 83) + 0 on 34;
+file . "upCounter.vhdl" "5305d9cf4c3e4ab9c0bb641a5f03f138473a45df" "20240220151846.045":
+  entity tff at 1( 0) + 0 on 27;
+  architecture tff of tff at 9( 138) + 0 on 28;
+  entity and_g at 28( 529) + 0 on 29;
+  architecture and_g of and_g at 36( 664) + 0 on 30;
+  entity up_counter at 44( 731) + 0 on 31;
+  architecture up_counter of up_counter at 52( 899) + 0 on 32;
