@@ -1,4 +1,7 @@
 # Embedded Systems VHDL-LAB Assignment
+Submitted by:
+- [Saujanya Shrestha - BCT36](https://github.com/OGnewar)
+- [Anu Ale Magar - BCT08](https://github.com/AnuAleMagar)
 This repository contains materials for an Embedded System VHDL Assignment. Below is a brief overview of the lab and its contents.
 
 ## Table of Contents
